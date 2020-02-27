@@ -1,7 +1,7 @@
 # TracksGmbH Chat Bot
 Submission to the Recruitment Exam of Tracks GmbH
 
-# Task Description
+## Task Description
 We need to build a small interactive system (Chat Bot) to identify trucks, their specification and number in particular fleet.
 
 * Customer is Fleet Owner or Fleet manager.
@@ -11,7 +11,9 @@ We need to build a small interactive system (Chat Bot) to identify trucks, their
 * All conversations should be recorded for future analysis.
 
 
-# How to Use
+## Chat Bot
+[Chatbot Graph](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/chatbot_graph.png)
+## How to Use
 
 Install required packages (pandas and textdistance) in [requirements.txt](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/requirements.txt)
 
@@ -19,7 +21,7 @@ Run [chatbot_trucks.py](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob
 
 The output will be written in the file [records.txt](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/records.txt)
 
-# Submission
+## Submission
 A detailed explanation can be found at [Notebook_Chatbot.ipynb](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/Notebook_Chatbot.ipynb)
 
 The steps are roughly the following:
