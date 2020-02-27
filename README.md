@@ -13,14 +13,14 @@ We need to build a small interactive system (Chat Bot) to identify trucks, their
 
 # How to Use
 
-Install required packages (pandas and textdistance) in 'requirements.txt'
+Install required packages (pandas and textdistance) in [requirements.txt](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/requirements.txt)
 
-Run chatbot_trucks.py in terminal.
+Run [chatbot_trucks.py](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/chatbot_trucks.py) in terminal.
 
-The output will be written in the file records.txt.
+The output will be written in the file [records.txt](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/records.txt)
 
 # Submission
-A detailed explanation can be found at 'Notebook_Chatbot.ipynb'
+A detailed explanation can be found at [Notebook_Chatbot.ipynb](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/Notebook_Chatbot.ipynb)
 
 The steps are rougly the following:
 
