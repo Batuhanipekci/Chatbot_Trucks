@@ -12,7 +12,7 @@ We need to build a small interactive system (Chat Bot) to identify trucks, their
 
 
 ## Chat Bot
-[Chatbot Graph](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/chatbot_graph.png)
+![Chatbot Graph](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/chatbot_graph.png)
 ## How to Use
 
 Install required packages (pandas and textdistance) in [requirements.txt](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/requirements.txt)
