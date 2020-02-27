@@ -26,7 +26,7 @@ A detailed explanation can be found at [Notebook_Chatbot.ipynb](https://github.c
 
 The steps are roughly the following:
 
-1. Web scraping the names of truck manufacturers and track models from https://en.wikipedia.org/wiki/List_of_trucks and writing them to truck_names.txt. It serves as a corpus which is used for correcting misspellings and making model recommendations.
+1. Web scraping the names of truck manufacturers and track models from https://en.wikipedia.org/wiki/List_of_trucks and writing them to [truck_names.txt](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/truck_names.txt). It serves as a corpus which is used for correcting misspellings and making model recommendations.
 
 2. Text Preprocessing by tokenizing the text and normalizing it different ways to capture the user input better.
 
