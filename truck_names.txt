@@ -1,0 +1,570 @@
+manufacturer;model
+American LaFrance;American Lafrance Condor
+Agrale;Agrale 6500
+Agrale;Agrale 8700
+Agrale;Agrale 10000
+Agrale;Agrale 14000
+AMW;AMW TP Series
+Ashok Leyland;Ashok Layland Avia
+Ashok Leyland;Ashok Leyland U-Truck
+Askam;Askam AS 950
+Askam;Askam 8 Litre
+Askam;Askam Hi-Ex
+Astra;Astra HD9
+AMW;AMW TR Series
+AMW;AMW HL Series
+AMW;AMW TM Series
+AMW;AMW CP Series
+Autocar;Autocar Xspotter
+Autocar;Autocar Expert
+Autocar;Autocar Refuse
+Avia Trucks;Avia D-Line
+AzUniversal Motors;Isuzu
+BeiBen;BeiBen V3 Series
+BeiBen;BeiBen NG80 Series
+BeiBen;BeiBen Eurysome
+BeiBen;BeiBen Tiema Series
+Beijing Automobile Works;BAW Dragon Flag
+Beijing Automobile Works;BAW Bell
+BharatBenz;BharatBenz 914
+BharatBenz;BharatBenz 1214
+BharatBenz;BharatBenz 2523
+BharatBenz;BharatBenz 3128
+BharatBenz;BharatBenz 3143
+BharatBenz;BharatBenz 3723
+Bryansk Automobile Plant;BAZ-69096
+Bryansk Automobile Plant;BAZ-69096 (civilian version)
+Bryansk Automobile Plant;BAZ-64022
+BMC (Turkey);BMC Fatih
+BMC;BMC Profesyonel
+Caterpillar;CAT CT660
+CEV;Might-E Truck
+Chevrolet;Chevrolet NHR
+Chevrolet;Chevrolet NKR
+Chevrolet;Chevrolet N-Series
+Chevrolet;Chevrolet Express Cutaway
+Chevrolet;Chevrolet FTR
+Chevrolet;Chevrolet FVR
+Chevrolet;Chevrolet FVZ
+Chevrolet;Chevrolet CYZ
+Citroën;Citroën Jumper
+CCC;CCC LET2
+CCC;CCC COE2
+CCC;CCC LOT2
+CNJ;CNJ Fortune
+CNJ;CNJ Ruichi
+DAF Trucks;DAF LF
+DAF Trucks;DAF CF
+DAF Trucks;DAF XF
+Dayun;Dayun CGC1047PB33E3
+Dayun;Dayun CGC1141
+Dayun;Dayun DYX1250
+Dayun;Dayun CGC1311
+Dayun;Dayun DYX5310
+Dina;Dina Hustler
+Dongfeng;Dongfeng Palawan
+Dongfeng;Dongfeng Gold Fighter
+Dongfeng;Dongfeng Chenglong
+Dongfeng;Dongfeng Kang PA
+Dongfeng;Dongfeng Star
+Dongfeng;Dongfeng Badly
+Dongfeng;Dongfeng Days Kam
+Dongfeng;Dongfeng Likas
+Dongfeng;Dongfeng King Kong
+Dongfeng;Dongfeng Tianlong
+Dongfeng;Dongfeng Titan
+Dongfeng;Dongfeng Balong Heavy Truck
+Dongfeng;Dongfeng Dragon Card
+FAP;FAP 1318
+FAP;FAP 1824
+FAP;FAP 1828
+FAP;FAP 1830
+FAP;FAP 2235
+FAP;FAP 2640
+FAW;FAW CA1051K26L3
+FAW;FAW CA1051K26L3R5
+FAW;FAW CA1037K2L
+FAW;FAW CA1031K2LR5
+FAW;FAW CA1031K2L
+FAW;FAW CA5313CLXYP7K2L11T4
+FAW;FAW CA3075K2
+FAW;FAW CA4322P21K15T1YA82
+FAW;FAW CA3313P7K2T4A
+FAW;FAW CA4252P21K2T1A
+FAW;FAW J6
+FAW-GM;Jie Fang 1-Ton Truck
+FAW-GM;Jie Fang 2-Ton Truck
+FAW-GM;Jie Fang 3-Ton Truck
+Fiat;Fiat Ducato
+Ford;Ford F-650/750
+Ford;Ford Econoline Cataway
+Ford;Ford Cargo
+Ford Otosan;Ford F-MAX
+Foton;Foton Aumark Series
+Foton;Foton Ollin Series
+Foton;Foton Auman Series
+Freightliner;Freigtliner M2 106
+Freightliner;Freightliner M2 112
+Freightliner;Freightliner Coronado Series
+Freightliner;Freightliner Cascadia
+Freightliner;Freightliner 108SD
+Freightliner;Freightliner 114SD
+Freightliner;Freightliner Century Class
+Freightliner;Freightliner Argosy
+GA;MAZ
+GAZ;GAZ 3307 /3309
+GAZ;GAZ 3308 Sadko
+GAZ;GAZ Gazelle
+GAZ;GAZelle NEXT
+GAZ;GAZon NEXT
+GAZ;GAZ Sadko NEXT
+GAZ;GAZ Valdai
+GINAF;GINAF C-Series
+GINAF;GINAF X-Series
+Hino;Hino 300 Series
+Hino;Hino 238
+Hino;Hino 500 Series
+Hino;Hino 700 Series
+Hyundai;Hyundai HD45
+Hyundai;Hyundai HD65/72/78
+Hyundai;Hyundai H350
+Hyundai;Hyundai Mighty
+Hyundai;Hyundai HD120/210
+Hyundai;Hyundai Cargo Truck
+Hyundai;Hyundai Xcient
+Iran Khodro Diesel;Khawar 1934
+Isuzu;Isuzu N-Series
+Isuzu;Mazda Titan
+Isuzu;Isuzu Elf
+Isuzu;Isuzu Forward
+Isuzu;Isuzu Giga
+Iveco;Iveco Daily
+Iveco;Iveco PowerStar
+Iveco;Iveco Eurocargo
+Iveco;Iveco Trakker
+Iveco;Iveco Stralis
+JAC;JAC 4DA1 Series
+JAC;JAC FHC Series
+JAC;JAC Shuailing
+JAC;JAC Tipper
+JAC;JAC Tractor
+JMC;JMC Carrying
+Kalmar Industries;Kalmar 4x2 off Highway
+Kalmar Industries;Kalmar TR-Series
+KAMAZ;KAMAZ 43253
+KAMAZ;KAMAZ 43114
+KAMAZ;KAMAZ 65207
+KAMAZ;KAMAZ 65117
+KAMAZ;KAMAZ 4326
+KAMAZ;KAMAZ 4308
+KAMAZ;KAMAZ 54115
+KAMAZ;KAMAZ 5460
+KAMAZ;KAMAZ 5490
+KAMAZ;KAMAZ 65116
+KAMAZ;KAMAZ 65206
+KAMAZ;KAMAZ 6460
+KAMAZ;KAMAZ 44108
+KAMAZ;KAMAZ 65201
+KAMAZ;KAMAZ 65224
+KAMAZ;KAMAZ 65225
+KAMAZ;KAMAZ 65226
+Kia;Kia Bongo
+Kenworth;Kenworth K270
+Kenworth;Kenworth T170
+Kenworth;Kenworth T409SAR
+Kenworth;Kenworth T359
+Kenworth;Kenworth C500
+Kenworth;Kenworth C509
+Kenworth;Kenworth T800
+Kenworth;Kenworth W900
+Kenworth;Kenworth T660
+Kenworth;Kenworth T659
+Kenworth;Kenworth T700
+Kenworth;Kenworth T680
+Kenworth;Kenworth T880
+Kenworth;Kenworth T909
+KrAZ;KrAZ-6322
+KrAZ;KrAZ-6505
+KrAZ;KrAZ-6510
+KrAZ;KrAZ-6443
+KrAZ;KrAZ-5233
+KrAZ;KrAZ H12.2
+KrAZ;KrAZ H23.2
+KrAZ;KrAZ S20.2
+KrAZ;KrAZ S26.2M
+KrAZ;KrAZ H27.3
+KrAZ;KrAZ-5401
+Mack Trucks;Mack Pinnacle Series
+Mack Trucks;Mack Titan
+Mack Trucks;Mack Granite
+Mack Trucks;Mack TerraPro
+Mack Trucks;Mack Metro-Liner
+Mack Trucks;Mack Super-Liner
+Mahindra Navistar;Mahindra Navistar DI3200
+Mahindra Navistar;Mahindra Navistar Loadking Zoom
+Mahindra Navistar;Mahindra Navistar Torro
+Mahindra Navistar;Mahindra Navistar Traco
+Mahindra Navistar;Mahindra Navistar Truxo
+Master;Master Highland
+Master;Master Forland
+Master;Master Foton
+Master;Master Grande
+MAZ;MAZ-5309
+MAZ;MAZ-4371
+MAZ;MAZ-447131
+MAZ;MAZ-6440
+MAZ;MAZ-6312
+MAZ;MAZ-5440
+MAZ;MAZ-5433
+Mercedes-Benz;Mercedes-Benz Atego
+Mercedes-Benz;Mercedes-Benz Axor
+Mercedes-Benz;Mercedes-Benz Unimog
+Mercedes-Benz;Mercedes-Benz Zetros
+Mercedes-Benz;Mercedes-Benz Actros
+Mercedes-Benz;Mercedes-Benz Arocs
+Mercedes-Benz;Mercedes-Benz Sprinter
+Mitsubishi Fuso;Mitsubishi Fuso Canter
+Mitsubishi Fuso;Mitsubishi Fuso Fighter
+Mitsubishi Fuso;Mitsubishi Fuso The Great
+Mitsubishi Fuso;Mitsubishi Fuso Super Great
+MZKT;MZKT - 75165
+MZKT;MZKT - 7402
+MZKT;MZKT - 692371
+Navistar International;International Citystar
+Navistar International;International LoadStar
+Navistar International;International TerraStar
+Navistar International;International DuraStar
+Navistar International;International Transtar
+Navistar International;International 9200i
+Navistar International;International 9400i
+Navistar International;International 9800i
+Navistar International;International 9900i
+Navistar International;International LoneStar
+Navistar International;International WorkStar
+Navistar International;International PayStar
+Navistar International;International ProStar+
+Nissan;Nissan Atlas
+Nissan;Renault Maxity
+MAN;MAN TGE
+MAN;MAN TG L
+MAN;MAN TGM
+MAN;MAN TGS
+MAN;MAN TGX
+Peterbilt;Peterbilt 210
+Peterbilt;Peterbilt 320
+Peterbilt;Peterbilt 325
+Peterbilt;Peterbilt 348
+Peterbilt;Peterbilt 365
+Peterbilt;Peterbilt 382
+Peterbilt;Peterbilt 384
+Peterblit;Peterbilt 386
+Peterbilt;Peterbilt 389
+Peterbilt;Peterbilt 587
+Peterbilt;Peterbilt 579
+Peugeot;Peugeot Boxer
+Renault Trucks;Renault Midlum
+Renault Trucks;Renault Access
+Renault Trucks;Renault Kerax
+Renault Trucks;Renault Premium
+Renault Trucks;Renault C
+Renault Trucks;Renault T
+Roman;Roman 12.250 F
+SAIC-Iveco Hongyan;Hongyan Cargo Truck
+SAIC-Iveco Hongyan;Hongyan Tractor
+SAIC-Iveco Hongyan;Hongyan Dump Truck
+SAIC-Iveco Hongyan;Hongyan Tanker Truck
+Scania;Scania P-series
+Scania;Scania G-series
+Scania;Scania R-series
+Shaanxi;Shaanxi Olong Tractor Truck
+Shaanxi;Shaanxi Delong Tractor Truck
+Silant;Silant 3.3 TD
+Sinotruk;Sinotruk Steyr
+Sinotruk;Sinotruk HOWO T7H
+Sinotruk;Sinotruk HOWO T5G
+Sisu;Sisu Polar
+Sisu;Sisu Rock
+Smith;Smith Newton
+SML Isuzu;SML Super
+SNVI;SNVI truck M120
+SNVI;SNVI truck TC260
+Tata;Tata Construck
+Tata;Tata Novus
+Tata;Tata Prima
+Tata Daewoo;Tata Daewoo Novus
+Tata Daewoo;Tata Daewoo Prima
+Tatra Trucks;Tatra Phoenix
+Tatra Trucks;Tatra T815 TerrN°2
+Tatra Trucks;Tatra 810
+Tatra Trucks;Tatra Jamal
+Toyota;Toyota Dyna
+UAZ;UAZ-3303
+UAZ;UAZ Cargo
+UD Trucks;Nissan Cabstar
+UD Trucks;UD Condor
+UD Trucks;UD Big Thumb
+UD Trucks;UD Quon
+UralAZ;Ural-4320
+UralAZ;Ural-43206
+UralAZ;Ural-4320-3951
+UralAZ;Ural-432065
+UralAZ;Ural-44202
+UralAZ;Ural-5323
+UralAZ;Ural-6368
+UralAZ;Ural-6370
+UralAZ;Ural Next
+Volkswagen Truck & Bus;Volkswagen Constellation
+Volkswagen Commercial Vehicles;Volkswagen Crafter
+Volkswagen Truck & Bus;Volkswagen Delivery
+Volkswagen Truck & Bus;Volkswagen Worker
+Volvo Trucks;Volvo FE
+Volvo Trucks;Volvo FM
+Volvo Trucks;Volvo VHD
+Volvo Trucks;Volvo VM
+Volvo Trucks;Volvo FH
+Volvo Trucks;Volvo FMX
+Volvo Trucks;Volvo VN
+Volvo Trucks;Volvo VNX
+Wanshan Special Vehicle;WS5250
+Wanshan Special Vehicle;WS5470
+Wuzheng Auto Works;A series
+Wuzheng Auto Works;V series
+Wuzheng Auto Works;D series
+Western Star;Western Star 4700
+Western Star;Western Star 4800
+Western Star;Western Star 4900
+Western Star;Western Star 6900
+Yulon;Yue Loong Homer
+Zastava Trucks;Zastava EuroZeta
+Zastava Trucks;Zastava ZK- 101
+ZiL;ZIL-4327
+ZiL;ZIL-4331
+ZiL;ZIL-5301 "Bychok"
+Agricola;Agricola 25 GT 4x4
+Alfa Romeo;Alfa Romeo A15
+Alfa Romeo;Alfa Romeo 50
+Alfa Romeo;Alfa Romeo 85
+Alfa Romeo;Alfa Romeo 350
+Alfa Romeo;Alfa Romeo 430
+Alfa Romeo;Alfa Romeo 900
+Alfa Romeo;Alfa Romeo 950
+Alfa Romeo;Alfa Romeo Mille
+Alfa Romeo;Alfa Romeo 500
+Alfa Romeo;Alfa Romeo 800
+Avia;Avia A15
+Avia;Avia A30
+Avia;Avia A60/65/75/80
+Amur;AMUR-531350
+Barkas;Barkas B1000
+Bering Truck;Bering LD15
+Bering Truck;Bering MD23
+Bering Truck;Bering HDMX
+BMC;BMC Megastar
+Büssing;Büssing Commodore
+Büssing;Büssing BS 16 L
+Büssing;MAN Büssing
+Büssing;Büssing LS 77
+Csepel;Csepel D350
+Csepel;Csepel D400/D420
+Csepel;Csepel D450
+Csepel;Csepel D344
+Csepel;Csepel 700 Series
+Csepel;Csepel D452/D453
+Csepel;Csepel D708
+Csepel;Csepel D730
+Csepel;Csepel D717
+Csepel;Csepel D750
+Csepel;Csepel D752 Series
+Diamond T;Diamond T 630
+Diamond T;Diamond T 969A Wercker
+Ernst Grube;Ernst Grube H6
+Ernst Grube;Sachsenring S4000-1
+Ernst Grube;Ernst Grube G5
+Fabrika automobila Priboj (FAP);FAP 13.14
+FAP;FAP 18.20
+FAP;FAP 22.22
+FAP;FAP 19.21
+FAP;FAP 19.215
+FAP;FAP 15.16/15.20
+FAP;FAP 10.16
+FAP;FAP 1213/1216
+FAP;FAP 1620
+Fabryka Samochodów Ciężarowych (FSC);FSC Żuk
+FSC;FSC Lublin
+FSC Star;Star 20
+FSC Star;Star 21
+FSC Star;Star 66
+FSC Star;Star 25
+FSC Star;Star 27
+FSC Star;Star 660
+FSC Star;Star 28/29
+FSC Star;Star 200
+FSC Star;Star 244
+FSC Star;Star 266
+FSC Star;Star 742
+FSC Star;Star 744
+FSC Star;Star 1142
+FSC Star;Star 8.125
+FSC Star;Star 12.157
+Star;Star S2000
+Star;Star 14.227
+GAZ;GAZ AA
+GAZ;GAZ-AAA
+GAZ;GAZ-51
+GAZ;GAZ-63
+GAZ;GAZ -52 /53
+GAZ;GAZ-66
+Horch;Horch H3
+Horch;Horch H3A
+Industrieverband Fahrzeugbau (IFA), Industriewerke Ludwigsfelde plant;IFA W50
+Industrieverband Fahrzeugbau (IFA), Industriewerke Ludwigsfelde plant;IFA W50LA
+Industrieverband Fahrzeugbau (IFA), Industriewerke Ludwigsfelde plant;IFA L60/1218
+Industrieverband Fahrzeugbau (IFA), Industriewerke Ludwigsfelde plant;IFA L60/1218PB
+Jelcz;Zubr A80
+Jelcz;Jelcz 300 Series
+Jelcz;Jelcz 640 Series
+Jelcz;Jelcz 410 series
+Jelcz;Jelcz 600 series
+Kutaisi Automobile Plant;KAZ-606 Colchis
+Kutaisi Automobile Plant;KAZ-608 Colchis
+Kutaisi Automobile Plant;KAZ-608B Colchis
+Kutaisi Automobile Plant;KAZ-4540
+KrAZ;KrAZ-219
+KrAZ;KrAZ-221
+KrAZ;KrAZ-222
+KrAZ;KrAZ-214
+KrAZ;KrAZ-257
+KrAZ;KrAZ-258
+KrAZ;KrAZ-256B
+KrAZ;KrAZ-255
+KrAZ;KrAZ-250
+KrAZ;KrAZ-260
+KZKT;KZKT-535
+KZKT;KZKT-537
+KZKT;KZKT-7428 Rusich
+KZKT;KZKT-8005
+LIAZ;LiAZ 100 Series
+LiAZ;LiAZ 200 Series
+LiAZ;LiAZ S/FZ Series
+LiAZ;LiAZ 300 Series
+Minsk Automobile Plant (MAZ);MAZ-200
+Minsk Automobile Plant (MAZ);MAZ-205
+Minsk Automobile Plant (MAZ);MAZ-535
+Minsk Automobile Plant (MAZ);MAZ-501
+Minsk Automobile Plant (MAZ);MAZ-502
+Minsk Automobile Plant (MAZ);MAZ-537
+Minsk Automobile Plant (MAZ);MAZ-543
+Minsk Automobile Plant (MAZ);MAZ-500
+Minsk Automobile Plant (MAZ);MAZ-503
+Minsk Automobile Plant (MAZ);MAZ-504
+Minsk Automobile Plant (MAZ);MAZ-516
+Minsk Automobile Plant (MAZ);MAZ-509
+Minsk Automobile Plant (MAZ);MAZ-5335
+Minsk Automobile Plant (MAZ);MAZ-5549
+Minsk Automobile Plant (MAZ);MAZ-5429
+Multicar;Multicar M24
+Multicar;Multicar M25
+Multicar;Multicar M26
+MAN;MAN HX
+Praga;Praga N
+Praga;Praga L
+Praga;Praga AN
+Praga;Praga ND/SND
+Praga;Praga TN/TNHP
+Praga;Praga TOV
+Praga;Praga RN/RND
+Praga;Praga V3S
+Praga;Praga S5T
+Praga;Praga S5T-2TN
+Praga;Praga UV80
+Praga;Praga NTS-265
+Renault Trucks;Renault Magnum
+Riga Autobus Factory;RAF-33111
+Sachsenring;Sachsenring S4000
+Škoda;Skoda 304/306
+Skoda;Skoda-Sentinel
+Skoda-Laurin & Klement;Skoda-Laurin-Klement-505/545
+Skoda-Laurin-Klement;Skoda-Laurin-Klement-125
+Skoda;Skoda-550
+Skoda;Skoda-104/154
+Skoda;Skoda-304/306
+Skoda;Skoda-504/506
+Skoda;Skoda-404D/606D
+Skoda;Skoda-206
+Skoda;Skoda-656D/806D
+Skoda;Skoda-254D
+Skoda;Skoda-100/150
+Skoda;Skoda-256B
+Skoda;Skoda-706D
+Skoda;Skoda-706R
+Skoda-LIAZ;Skoda-706RT
+Skoda-LIAZ;Skoda-LIAZ-706MT
+Skoda;Škoda 1203
+Skoda-LIAZ;Skoda-LiAZ 100 Series
+Skoda-LIAZ;Skoda-LiAZ 200 Series
+Skoda-LIAZ;Skoda-LiAZ S/FZ Series
+Skoda-LIAZ;Skoda-LiAZ 300 Series
+Skoda-LIAZ;Skoda-LIAZ-Xena
+Sterling Trucks;Sterling 360
+Sterling Trucks;Sterling Acterra
+Sterling Trucks;Sterling Set Forward L-Line
+Sterling Trucks;Sterling Set Back L-Line
+Sterling Trucks;Sterling Set Back A-Line
+Tatra;Tatra TL4
+Tatra;Tatra 13
+Tatra;Tatra 26
+Tatra;Tatra T23
+Tatra;Tatra T24
+Tatra;Tatra T43/T52
+Tatra;Tatra T27
+Tatra;Tatra 82
+Tatra;Tatra T92
+Tatra;Tatra T93
+Tatra;Tatra T85/T91
+Tatra;Tatra T81
+Tatra;Tatra T111
+Tatra;Tatra T128
+Tatra;Tatra T141
+Tatra;Tatra T805
+Tatra;Tatra T138
+Tatra;Tatra T813
+Tatra;Tatra T148
+Tatra;Tatra T815
+Tatra;Tatra T815 TerrNo1
+Trnavské automobilové závody (TAZ);TAZ 1500
+UralZiS;UralZiS-355M
+UralAZ;Ural-375
+UralAZ;Ural-377
+UralAZ;Ural-4322
+VEB Fahrzeugwerk Mölkau;IFA Picco max 4
+VEB Robur-Werke;Robur Garant
+VEB Robur-Werke;Robur LO 2500/LD2500
+VEB Robur-Werke;Robur Lo 1800A
+VEB Robur-Werke;Robur LO/LD 2501
+VEB Robur-Werke;Robur 1801A
+VEB Robur-Werke;Robur LO/LD 3000
+VEB Robur-Werke;Robur LO 2202A
+VEB Robur-Werke;Robur LD/LO 3001/3002
+Robur-Werke;Robur LD3004
+YaAZ;Ya-3
+YaAZ;Ya-4
+YaAZ;Ya-5
+YaAZ;YaG-3
+YaAZ;YaG-10
+YaAZ;YaG-6
+YaAZ;YaAZ-200
+YaAZ;YaAZ-210
+YaAZ;YaAZ-214
+YaAZ;YaAZ-221
+YaAZ;YaAZ-222
+ZiS;ZIS-5
+ZiS;ZIS-6
+ZiS;ZIS-150
+ZiS;ZiS-151
+ZiL;ZIL-157
+ZiL;ZIL-130
+ZiL;ZIL 131
+ZiL;ZiL-133
+ZiL;ZiL-4334
+ZiL;ZiL-6309
+Zmaj;Zmaj-3200

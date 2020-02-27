@@ -1,0 +1,2 @@
+manufacturer_model;fleet_number;total_axle_load
+Hino 12321;23;9999
