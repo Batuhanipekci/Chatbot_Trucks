@@ -32,8 +32,8 @@ The steps are rougly the following:
 
 4. A function is written to give recommendations based on text similarity between the user input and the corpus.
 
-5. The chat bot ChatForTrucks() is constructed by considering various scenarios including misspellings of the truck manufacturer's name, missing information on the truck model, user inputs which are irrelevant to the purpose of collecting the data from the fleet managers. In addition, knowledge on the fleet number and the specification (the total axle size) is gathered. The results are written in 'records.txt'.
+5. The chat bot ChatForTrucks() is constructed by considering various scenarios including misspellings of the truck manufacturer's name, missing information on the truck model, user inputs which are irrelevant to the purpose of collecting the data from the fleet managers. In addition, knowledge on the fleet number and the specification (the total axle size) is gathered. The results are written in [records.txt](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/records.txt).
 
-6. Various test cases are tried and their results are reported in the seventh chapter of 'Notebook_Chatbot.ipynb'
+6. Various test cases are tried and their results are reported in the seventh chapter of [Notebook_Chatbot.ipynb]((https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/Notebook_Chatbot.ipynb)
 
 7. Further uses of the gathered data are discussed for future reference.
