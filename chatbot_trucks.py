@@ -143,6 +143,7 @@ def ChatForTrucks():
 
                 elif fleet_number.isdigit() == False :
                     # Invalid response for the fleet number in Case 1.
+                    print('The truck is not recorded.')
                     continue
                     print(os.linesep)
                 else:
@@ -168,6 +169,7 @@ def ChatForTrucks():
 
                     elif truck_spec.isdigit() == False:
                         # Invalid response for the truck specification in Case 1.
+                        print('The truck is not recorded.')
                         continue
                         print(os.linesep)
                     else:
@@ -226,6 +228,7 @@ def ChatForTrucks():
                         exit_flag = False   
                     elif fleet_number.isdigit() == False:
                         # Invalid response for the fleet number in Case 2.
+                        print('The truck is not recorded.')
                         continue
                         print(os.linesep)
                     else:
@@ -252,6 +255,7 @@ def ChatForTrucks():
 
                         elif truck_spec.isdigit() == False :
                             # Invalid response for the truck specification in Case 2.
+                            print('The truck is not recorded.')
                             continue
                             print(os.linesep)
                         else:
