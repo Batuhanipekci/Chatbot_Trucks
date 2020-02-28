@@ -1,4 +1,4 @@
-# TracksGmbH Chat Bot
+# Tracks GmbH Chat Bot
 Submission to the Recruitment Exam of Tracks GmbH
 
 ## Task Description
