@@ -12,7 +12,7 @@ We need to build a small interactive system (Chat Bot) to identify trucks, their
 
 
 ## Chat Bot
-The chat bot is designed to retrieve data from fleet managers. If the user input is found exactly in the predefined corpus of truck manufacturers and names, it asks for the fleet number and then a truck specification (total axle load). Otherwise the chat bot tries to correct the user input depending on a text similarity measure. If the manufacturer's name can be extracted, but not the truck model, the chat bot tries to infer the model name (by looking if there is any number in the user input). When the user exits the chatbot, it writes the accepted entries in a file, [records.txt](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/records.txt).
+The chat bot is designed to retrieve data from fleet managers. If the user input is found exactly in the predefined corpus of truck manufacturers and names, it asks for the fleet number and then a truck specification (total axle load). Otherwise, the chat bot tries to correct the user input depending on a text similarity measure. If the manufacturer's name can be extracted, but not the truck model, the chat bot tries to infer the model name (by looking if there is any number in the user input). When the user exits the chatbot, it writes the accepted entries in a file, [records.txt](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/records.txt).
 
 This selective behavior allows us to retrieve data from the fleet managers in a clean way. Irrelevant entries are not accepted, and ones which can be corrected are attempted to correct.
 
