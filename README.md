@@ -38,6 +38,6 @@ The script [helper_functions](https://github.com/Batuhanipekci/TracksGmbH_Chatbo
 
 The run script [chat_trucks_run.py](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/chat_trucks_run.py) organizes all the three parts and prints out the results.
 
-An example conversation is seen at [chat_trucks_run.py](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/results/chatlog.txt) 
+An example conversation is seen at [chatlog.txt](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/results/chatlog.txt) 
 
 
