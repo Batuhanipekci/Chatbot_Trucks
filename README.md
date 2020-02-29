@@ -1,7 +1,7 @@
 # Tracks GmbH Chat Bot V2
 Submission to the Recruitment Exam of Tracks GmbH
 
-Run the file [chat_trucks_run.py](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/chat_trucks_run.py) on terminal, after installing necessary packages (only the textdistance) at [requirements.txt](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/requirements.txt).
+Run the file [chat_trucks_run.py](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/chat_trucks_run.py) on terminal, after installing necessary packages (only textdistance) at [requirements.txt](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/requirements.txt).
 
 ## Task Description
 We need to build a small interactive system (Chat Bot) to identify trucks, their specification and number in particular fleet.
