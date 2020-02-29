@@ -25,11 +25,11 @@ There are three main parts of the chat bot:
 
 1. [The greetings bot](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/greetings_bot.py) welcomes the user, collects the user information, as well as, whether the company owns trucks.
 
-2. If the company owns trucks, [the truck name bot](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/truck_name_bot.py) inquiries about the brand and model names. In order to ensure consistency between user inputs and the available database, it attempts to correct the misspellings in the brand name. This is done by calculating Levenshtein distance between the input and the web scraped data set of truck model names. The functionality at the [version1](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/tree/version1) is simplified by only focusing on brand names. 
+2. If the company owns trucks, [the truck name bot](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/truck_name_bot.py) inquiries about the brand and model names. In order to ensure consistency between user inputs and the available database, it attempts to correct the misspellings in the brand name. This is done by calculating Levenshtein distance between the input and the web scraped data set of truck model names. The functionality at the [version1](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/tree/version1) is simplified by only focusing on brand names. Three cases are identified:
 
 * In case of exact match, the user input is accepted as it is.
 * In case of misspelling (happens when a unique maximum Levensthein similarity is attained within the data set), the chat bot gives recommendations by printing 'Did you mean that?' and expects confirmation. If the user does not confirm, (s)he is asked to enter a new brand name.
-* In case there are more than one possible recommendable choices in the data set, the chat bot accepts what the user has given without asking anything.
+* In case there are more than one possible recommendable choices in the data set, the chat bot accepts what the user has given without asking anything. 
 
 3. Having a list of brand names, [the specs bot](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/specs_bot.py) asks for model names for each brand and collects their specification. It attempts to organize the bulk of knowledge by asking 'how many such trucks do you have?' and writing the trucks with the same specifications as the count of a truck model, avoiding duplicate entries.
 
