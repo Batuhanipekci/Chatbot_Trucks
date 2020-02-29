@@ -24,20 +24,20 @@ def ChatForTrucks():
         print(os.linesep + "Good Bye! Drive safe and efficient...")
     print(os.linesep + 'User information, truck summaries, and dialogs are saved.')
 
-    with open('user_information.txt', 'w') as fo:
+    with open('results/user_information.txt', 'w') as fo:
         print(';'.join(['user_name', user_info_list[0]['User Name']]), file=fo)
         print(';'.join(['company', user_info_list[0]['Company Name']]), file=fo)  
         print(';'.join(  ['trucks_owned', user_info_list[0]['Trucks Owned']]   ), file=fo)
 
 
-    with open('truck_summaries.txt', 'w') as fo:
+    with open('results/truck_summaries.txt', 'w') as fo:
         print(';'.join(['brand','model','count','engine_size','axles','weight','max_load']), file=fo)
         for i in range(len(truck_summaries)):
             specs = list(map(str, truck_summaries[i][1][1][0]))
             print( ';'.join([truck_summaries[i][0],truck_summaries[i][1][0]] + specs), file=fo)
 
 
-    with open('chatlog.txt', 'w') as fo:
+    with open('results/chatlog.txt', 'w') as fo:
         for i in range(len(user_info_list)):
             print('Chatbot: ' + user_info_list[1][i].replace('\n',''), file=fo)
             print('User: ' + user_info_list[2][i].replace('\n',''), file=fo)
