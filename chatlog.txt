@@ -1,0 +1,70 @@
+Chatbot: Hallo, what is your name?\n
+User: Batuhan Ipekci\n
+Chatbot: Hi Batuhan Ipekci, what is the name of your company?\n
+User: Tracks GmbH\n
+Chatbot: Do you own trucks at Tracks GmbH ?\n
+User: yes\n
+Chatbot: What brands are they?\n
+User: BharatBenz, DAF Trucks, and undai\n
+Chatbot: Did you mean Hyundai by saying undai ?\n
+User: yes\n
+\n
+ ---- \n
+\n
+Chatbot: ------------------------------You have 1 unidentified trucks for BharatBenz 3723.\n Please write the engine size of truck #1 in liters.\n
+User: 5\n
+Chatbot: How many axles do you have for truck #1?\n
+User: 4\n
+Chatbot: How much tonnes does truck #1 weight?\n 
+User: 40.0\n
+Chatbot: What is the maximum load in tonnes that truck #1 can carry?\n
+User: 20\n
+Chatbot: How many BharatBenz 3723 with the same specification as truck #1 do you have?\n 
+User: 1\n
+Chatbot: All trucks for model BharatBenz 3723 are recorded with success!\n ------------------------------\n
+\n 
+\n
+ ----\n 
+\n
+Chatbot: ------------------------------You have 2 unidentified trucks for DAF XF. Please write the engine size of truck #1 in liters.\n
+User: 7\n
+Chatbot: How many axles do you have for truck #1?\n 
+User: 6\n
+Chatbot: How much tonnes does truck #1 weight?\n 
+User: 26.5\n
+Chatbot: What is the maximum load in tonnes that truck #1 can carry?\n 
+User: 56\n
+Chatbot: How many DAF XF with the same specification as truck #1 do you have?\n
+User: 2\n
+Chatbot: All trucks for model DAF XF are recorded with success!\n ------------------------------\n
+ \n
+\n
+ ----\n 
+\n
+Chatbot: ------------------------------You have 1 unidentified trucks for DAF XC. Please write the engine size of truck #1 in liters.\n
+User: 10\n
+Chatbot: How many axles do you have for truck #1?\n 
+User: 4\n
+Chatbot: How much tonnes does truck #1 weight?\n
+User: 34.0\n
+Chatbot: What is the maximum load in tonnes that truck #1 can carry?\n 
+User: 12\n
+Chatbot: How many DAF XC with the same specification as truck #1 do you have?\n 
+User: 1\n
+Chatbot: All trucks for model DAF XC are recorded with success!\n ------------------------------\n
+ \n
+
+ ---- 
+
+Chatbot: ------------------------------You have 1 unidentified trucks for Hyundai H350. Please write the engine size of truck #1 in liters.
+User: 5
+Chatbot: How many axles do you have for truck #1? 
+User: 2
+Chatbot: How much tonnes does truck #1 weight? 
+User: 33.0
+Chatbot: What is the maximum load in tonnes that truck #1 can carry? 
+User: 12
+Chatbot: How many Hyundai H350 with the same specification as truck #1 do you have? 
+User: 1
+Chatbot: All trucks for model Hyundai H350 are recorded with success! ------------------------------
+ 

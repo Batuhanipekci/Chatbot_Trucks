@@ -1,0 +1,570 @@
+manufacturer
+American LaFrance
+Agrale
+Agrale
+Agrale
+Agrale
+AMW
+Ashok Leyland
+Ashok Leyland
+Askam
+Askam
+Askam
+Astra
+AMW
+AMW
+AMW
+AMW
+Autocar
+Autocar
+Autocar
+Avia Trucks
+AzUniversal Motors
+BeiBen
+BeiBen
+BeiBen
+BeiBen
+Beijing Automobile Works
+Beijing Automobile Works
+BharatBenz
+BharatBenz
+BharatBenz
+BharatBenz
+BharatBenz
+BharatBenz
+Bryansk Automobile Plant
+Bryansk Automobile Plant
+Bryansk Automobile Plant
+BMC (Turkey)
+BMC
+Caterpillar
+CEV
+Chevrolet
+Chevrolet
+Chevrolet
+Chevrolet
+Chevrolet
+Chevrolet
+Chevrolet
+Chevrolet
+Citroën
+CCC
+CCC
+CCC
+CNJ
+CNJ
+DAF Trucks
+DAF Trucks
+DAF Trucks
+Dayun
+Dayun
+Dayun
+Dayun
+Dayun
+Dina
+Dongfeng
+Dongfeng
+Dongfeng
+Dongfeng
+Dongfeng
+Dongfeng
+Dongfeng
+Dongfeng
+Dongfeng
+Dongfeng
+Dongfeng
+Dongfeng
+Dongfeng
+FAP
+FAP
+FAP
+FAP
+FAP
+FAP
+FAW
+FAW
+FAW
+FAW
+FAW
+FAW
+FAW
+FAW
+FAW
+FAW
+FAW
+FAW-GM
+FAW-GM
+FAW-GM
+Fiat
+Ford
+Ford
+Ford
+Ford Otosan
+Foton
+Foton
+Foton
+Freightliner
+Freightliner
+Freightliner
+Freightliner
+Freightliner
+Freightliner
+Freightliner
+Freightliner
+GA
+GAZ
+GAZ
+GAZ
+GAZ
+GAZ
+GAZ
+GAZ
+GINAF
+GINAF
+Hino
+Hino
+Hino
+Hino
+Hyundai
+Hyundai
+Hyundai
+Hyundai
+Hyundai
+Hyundai
+Hyundai
+Iran Khodro Diesel
+Isuzu
+Isuzu
+Isuzu
+Isuzu
+Isuzu
+Iveco
+Iveco
+Iveco
+Iveco
+Iveco
+JAC
+JAC
+JAC
+JAC
+JAC
+JMC
+Kalmar Industries
+Kalmar Industries
+KAMAZ
+KAMAZ
+KAMAZ
+KAMAZ
+KAMAZ
+KAMAZ
+KAMAZ
+KAMAZ
+KAMAZ
+KAMAZ
+KAMAZ
+KAMAZ
+KAMAZ
+KAMAZ
+KAMAZ
+KAMAZ
+KAMAZ
+Kia
+Kenworth
+Kenworth
+Kenworth
+Kenworth
+Kenworth
+Kenworth
+Kenworth
+Kenworth
+Kenworth
+Kenworth
+Kenworth
+Kenworth
+Kenworth
+Kenworth
+KrAZ
+KrAZ
+KrAZ
+KrAZ
+KrAZ
+KrAZ
+KrAZ
+KrAZ
+KrAZ
+KrAZ
+KrAZ
+Mack Trucks
+Mack Trucks
+Mack Trucks
+Mack Trucks
+Mack Trucks
+Mack Trucks
+Mahindra Navistar
+Mahindra Navistar
+Mahindra Navistar
+Mahindra Navistar
+Mahindra Navistar
+Master
+Master
+Master
+Master
+MAZ
+MAZ
+MAZ
+MAZ
+MAZ
+MAZ
+MAZ
+Mercedes-Benz
+Mercedes-Benz
+Mercedes-Benz
+Mercedes-Benz
+Mercedes-Benz
+Mercedes-Benz
+Mercedes-Benz
+Mitsubishi Fuso
+Mitsubishi Fuso
+Mitsubishi Fuso
+Mitsubishi Fuso
+MZKT
+MZKT
+MZKT
+Navistar International
+Navistar International
+Navistar International
+Navistar International
+Navistar International
+Navistar International
+Navistar International
+Navistar International
+Navistar International
+Navistar International
+Navistar International
+Navistar International
+Navistar International
+Nissan
+Nissan
+MAN
+MAN
+MAN
+MAN
+MAN
+Peterbilt
+Peterbilt
+Peterbilt
+Peterbilt
+Peterbilt
+Peterbilt
+Peterbilt
+Peterblit
+Peterbilt
+Peterbilt
+Peterbilt
+Peugeot
+Renault Trucks
+Renault Trucks
+Renault Trucks
+Renault Trucks
+Renault Trucks
+Renault Trucks
+Roman
+SAIC-Iveco Hongyan
+SAIC-Iveco Hongyan
+SAIC-Iveco Hongyan
+SAIC-Iveco Hongyan
+Scania
+Scania
+Scania
+Shaanxi
+Shaanxi
+Silant
+Sinotruk
+Sinotruk
+Sinotruk
+Sisu
+Sisu
+Smith
+SML Isuzu
+SNVI
+SNVI
+Tata
+Tata
+Tata
+Tata Daewoo
+Tata Daewoo
+Tatra Trucks
+Tatra Trucks
+Tatra Trucks
+Tatra Trucks
+Toyota
+UAZ
+UAZ
+UD Trucks
+UD Trucks
+UD Trucks
+UD Trucks
+UralAZ
+UralAZ
+UralAZ
+UralAZ
+UralAZ
+UralAZ
+UralAZ
+UralAZ
+UralAZ
+Volkswagen Truck & Bus
+Volkswagen Commercial Vehicles
+Volkswagen Truck & Bus
+Volkswagen Truck & Bus
+Volvo Trucks
+Volvo Trucks
+Volvo Trucks
+Volvo Trucks
+Volvo Trucks
+Volvo Trucks
+Volvo Trucks
+Volvo Trucks
+Wanshan Special Vehicle
+Wanshan Special Vehicle
+Wuzheng Auto Works
+Wuzheng Auto Works
+Wuzheng Auto Works
+Western Star
+Western Star
+Western Star
+Western Star
+Yulon
+Zastava Trucks
+Zastava Trucks
+ZiL
+ZiL
+ZiL
+Agricola
+Alfa Romeo
+Alfa Romeo
+Alfa Romeo
+Alfa Romeo
+Alfa Romeo
+Alfa Romeo
+Alfa Romeo
+Alfa Romeo
+Alfa Romeo
+Alfa Romeo
+Avia
+Avia
+Avia
+Amur
+Barkas
+Bering Truck
+Bering Truck
+Bering Truck
+BMC
+Büssing
+Büssing
+Büssing
+Büssing
+Csepel
+Csepel
+Csepel
+Csepel
+Csepel
+Csepel
+Csepel
+Csepel
+Csepel
+Csepel
+Csepel
+Diamond T
+Diamond T
+Ernst Grube
+Ernst Grube
+Ernst Grube
+Fabrika automobila Priboj (FAP)
+FAP
+FAP
+FAP
+FAP
+FAP
+FAP
+FAP
+FAP
+Fabryka Samochodów Ciężarowych (FSC)
+FSC
+FSC Star
+FSC Star
+FSC Star
+FSC Star
+FSC Star
+FSC Star
+FSC Star
+FSC Star
+FSC Star
+FSC Star
+FSC Star
+FSC Star
+FSC Star
+FSC Star
+FSC Star
+Star
+Star
+GAZ
+GAZ
+GAZ
+GAZ
+GAZ
+GAZ
+Horch
+Horch
+Industrieverband Fahrzeugbau (IFA), Industriewerke Ludwigsfelde plant
+Industrieverband Fahrzeugbau (IFA), Industriewerke Ludwigsfelde plant
+Industrieverband Fahrzeugbau (IFA), Industriewerke Ludwigsfelde plant
+Industrieverband Fahrzeugbau (IFA), Industriewerke Ludwigsfelde plant
+Jelcz
+Jelcz
+Jelcz
+Jelcz
+Jelcz
+Kutaisi Automobile Plant
+Kutaisi Automobile Plant
+Kutaisi Automobile Plant
+Kutaisi Automobile Plant
+KrAZ
+KrAZ
+KrAZ
+KrAZ
+KrAZ
+KrAZ
+KrAZ
+KrAZ
+KrAZ
+KrAZ
+KZKT
+KZKT
+KZKT
+KZKT
+LIAZ
+LiAZ
+LiAZ
+LiAZ
+Minsk Automobile Plant (MAZ)
+Minsk Automobile Plant (MAZ)
+Minsk Automobile Plant (MAZ)
+Minsk Automobile Plant (MAZ)
+Minsk Automobile Plant (MAZ)
+Minsk Automobile Plant (MAZ)
+Minsk Automobile Plant (MAZ)
+Minsk Automobile Plant (MAZ)
+Minsk Automobile Plant (MAZ)
+Minsk Automobile Plant (MAZ)
+Minsk Automobile Plant (MAZ)
+Minsk Automobile Plant (MAZ)
+Minsk Automobile Plant (MAZ)
+Minsk Automobile Plant (MAZ)
+Minsk Automobile Plant (MAZ)
+Multicar
+Multicar
+Multicar
+MAN
+Praga
+Praga
+Praga
+Praga
+Praga
+Praga
+Praga
+Praga
+Praga
+Praga
+Praga
+Praga
+Renault Trucks
+Riga Autobus Factory
+Sachsenring
+Škoda
+Skoda
+Skoda-Laurin & Klement
+Skoda-Laurin-Klement
+Skoda
+Skoda
+Skoda
+Skoda
+Skoda
+Skoda
+Skoda
+Skoda
+Skoda
+Skoda
+Skoda
+Skoda
+Skoda-LIAZ
+Skoda-LIAZ
+Skoda
+Skoda-LIAZ
+Skoda-LIAZ
+Skoda-LIAZ
+Skoda-LIAZ
+Skoda-LIAZ
+Sterling Trucks
+Sterling Trucks
+Sterling Trucks
+Sterling Trucks
+Sterling Trucks
+Tatra
+Tatra
+Tatra
+Tatra
+Tatra
+Tatra
+Tatra
+Tatra
+Tatra
+Tatra
+Tatra
+Tatra
+Tatra
+Tatra
+Tatra
+Tatra
+Tatra
+Tatra
+Tatra
+Tatra
+Tatra
+Trnavské automobilové závody (TAZ)
+UralZiS
+UralAZ
+UralAZ
+UralAZ
+VEB Fahrzeugwerk Mölkau
+VEB Robur-Werke
+VEB Robur-Werke
+VEB Robur-Werke
+VEB Robur-Werke
+VEB Robur-Werke
+VEB Robur-Werke
+VEB Robur-Werke
+VEB Robur-Werke
+Robur-Werke
+YaAZ
+YaAZ
+YaAZ
+YaAZ
+YaAZ
+YaAZ
+YaAZ
+YaAZ
+YaAZ
+YaAZ
+YaAZ
+ZiS
+ZiS
+ZiS
+ZiS
+ZiL
+ZiL
+ZiL
+ZiL
+ZiL
+ZiL
+Zmaj
