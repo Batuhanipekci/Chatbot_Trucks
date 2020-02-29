@@ -137,7 +137,7 @@ def truck_recommender(user_input):
     user_input_clean = clean_basic(user_input)
     
     # Read the list
-    manu_list = [line.rstrip('\n') for line in open('truck_manufacturer.txt','r')][1:]
+    manu_list = [line.rstrip('\n') for line in open('data/truck_manufacturer.txt','r')][1:]
     
     # Ensure that manufacturer's list is consisted of unique names
     manu_list = list(set(manu_list))
