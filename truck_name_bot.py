@@ -28,7 +28,7 @@ def TruckNameBot():
     if len(recommendations)>0:
         # For the brands we have a recommendation
         for recomm in recommendations:
-            # you did_you_mean_that function to ask
+            # use did_you_mean_that function to ask
             # the user her opinion about the
             # recommended brand name
             
