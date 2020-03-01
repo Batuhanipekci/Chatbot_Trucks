@@ -34,7 +34,7 @@ There are three main parts of the chat bot:
 3. Having a list of brand names, [the specs bot](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/specs_bot.py) asks for model names for each brand and collects their specification. It attempts to organize the bulk of knowledge by asking 'how many such trucks do you have?' and writing the trucks with the same specifications as the count of a truck model, avoiding duplicate entries.
 
 
-The script [helper_functions](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/helper_functions.py) stores functions that are common to all parts, such as specific input functions, a 'did you mean that' loop, a text cleaning function, a truck recommender tool based on Levenshtein distance etc. 
+The script [helper_functions](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/helper_functions.py) contains functions that are common to all parts, such as specific input functions, a 'did you mean that' function, a text cleaning function, a truck recommender tool based on Levenshtein distance etc. 
 
 The run script [chat_trucks_run.py](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/chat_trucks_run.py) organizes all the three parts and prints out the results.
 
