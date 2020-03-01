@@ -6,6 +6,11 @@ import re
 
 
 def input_integer_select(integer_limit = 100):
+    '''
+    Accepts only integer values. For non-integer entries,
+    initiates a loop of asking for an integer.
+    It can be merged with the input_float_select.
+    '''
     flag = True
     user_input = input()
 
@@ -27,6 +32,10 @@ def input_integer_select(integer_limit = 100):
 
 
 def input_char_list(text):
+    '''
+    Splits the user input of brand lists
+    by commas and ' and '
+    '''
     text_list = text.split(',')
     result = []
     for tl in text_list:
@@ -35,6 +44,7 @@ def input_char_list(text):
 
 
 def input_float_select(float_limit = 100.0):
+    ''' It can be merged with the input_integer_select '''
     flag = True
     user_input = input()
 
@@ -54,10 +64,13 @@ def input_float_select(float_limit = 100.0):
             
     return(round(float(user_input),2))
 
+
 def did_you_mean_that(what_user_does,what_we_want):
+    '''
+    Helps deciding between the user input and the recommendation
+    '''
     cb_prints = list()
     user_inputs_rec = list()
-    
     
     cb_prints.append(os.linesep +'Did you mean {0} by saying {1} ?'.format(what_we_want,what_user_does))
     print(cb_prints[len(cb_prints)-1])

@@ -4,7 +4,12 @@ from helper_functions import *
 
 
 def collect_models(truck):
-
+    '''
+    Counts how many models there are
+    for a given brand and returns the model list
+    with the saved conversation
+    '''
+    # Collect the dialog with user_inputs and cb_prints
     user_inputs = list()
     cb_prints = list()
 
@@ -20,7 +25,7 @@ def collect_models(truck):
     
     model_list=input_char_list(user_inputs[len(user_inputs)-1])
 
-  
+
     flag = True
     while flag:
 
@@ -36,19 +41,19 @@ def collect_models(truck):
             count = user_inputs[len(user_inputs)-1]
             count_list.append(int(count))
 
-        #if sum(list(map(int,count_list))) != int(number_models_truck):
-        #    cb_prints.append(os.linesep + 'The number of trucks do not' 
-        #                     + 'match for {0}, try again!'.format(truck) + os.linesep)  
-        #    print(cb_prints[len(cb_prints)-1])
         else:
             flag = False
 
     return([list(zip(model_list, count_list)),cb_prints, user_inputs])
 
 
-
-
 def specs_collect(model,truck_number):
+    '''
+    Takes collect_model()'s output as input and collect
+    specifications.
+    Asks the question of 'how many such trucks do you have?'
+    in order to organize the information flow.
+    '''
     user_inputs = list()
     cb_prints = list()
 
@@ -116,14 +121,21 @@ def specs_collect(model,truck_number):
 
 
 def SpecsBot(brands):
+    '''
+    Runs collect_models()
+    and specs_collect() in their respective loops
+    '''
     results = []
     for b in brands:
+        
         models_for_brand = collect_models(b)
-
         list_models = models_for_brand[0]
+        
         for m in list_models:
+            
             specs = specs_collect(m[0],m[1] )
             results.append([b,specs])
+    
     return(results)
 
 
