@@ -13,20 +13,20 @@ User: yes
 
 Chatbot: ------------------------------You have 1 unidentified trucks for BharatBenz 3723. Please write the engine size of truck #1 in liters.
 User: 5
-Chatbot: How many axles do you have for truck #1?
+Chatbot: How many axles do you have for truck #1? 
 User: 4
 Chatbot: How much tonnes does truck #1 weight? 
 User: 40.0
-Chatbot: What is the maximum load in tonnes that truck #1 can carry?
+Chatbot: What is the maximum load in tonnes that truck #1 can carry? 
 User: 20
 Chatbot: How many BharatBenz 3723 with the same specification as truck #1 do you have? 
 User: 1
 Chatbot: All trucks for model BharatBenz 3723 are recorded with success! ------------------------------
  
 
- ----
+ ---- 
 
-Chatbot: ------------------------------You have 2 unidentified trucks for DAF XF. Please write the engine size of truck #1 in liters.
+Chatbot: ------------------------------You have 3 unidentified trucks for DAF XF. Please write the engine size of truck #1 in liters.
 User: 7
 Chatbot: How many axles do you have for truck #1? 
 User: 6
@@ -34,21 +34,31 @@ Chatbot: How much tonnes does truck #1 weight?
 User: 26.5
 Chatbot: What is the maximum load in tonnes that truck #1 can carry? 
 User: 56
-Chatbot: How many DAF XF with the same specification as truck #1 do you have?
+Chatbot: How many DAF XF with the same specification as truck #1 do you have? 
 User: 2
+Chatbot: ------------------------------You have 1 unidentified trucks for DAF XF. Please write the engine size of truck #3 in liters.
+User: 5
+Chatbot: How many axles do you have for truck #3? 
+User: 3
+Chatbot: How much tonnes does truck #3 weight? 
+User: 20.0
+Chatbot: What is the maximum load in tonnes that truck #3 can carry? 
+User: 10
+Chatbot: How many DAF XF with the same specification as truck #3 do you have? 
+User: 1
 Chatbot: All trucks for model DAF XF are recorded with success! ------------------------------
  
 
- ----
+ ---- 
 
 Chatbot: ------------------------------You have 1 unidentified trucks for DAF XC. Please write the engine size of truck #1 in liters.
-User: 10
+User: 7
 Chatbot: How many axles do you have for truck #1? 
-User: 4
-Chatbot: How much tonnes does truck #1 weight?
-User: 34.0
+User: 3
+Chatbot: How much tonnes does truck #1 weight? 
+User: 10.0
 Chatbot: What is the maximum load in tonnes that truck #1 can carry? 
-User: 12
+User: 3
 Chatbot: How many DAF XC with the same specification as truck #1 do you have? 
 User: 1
 Chatbot: All trucks for model DAF XC are recorded with success! ------------------------------
@@ -56,15 +66,15 @@ Chatbot: All trucks for model DAF XC are recorded with success! ----------------
 
  ---- 
 
-Chatbot: ------------------------------You have 1 unidentified trucks for Hyundai H350. Please write the engine size of truck #1 in liters.
-User: 5
+Chatbot: ------------------------------You have 1 unidentified trucks for Hyundai Mighty. Please write the engine size of truck #1 in liters.
+User: 3
 Chatbot: How many axles do you have for truck #1? 
-User: 2
+User: 4
 Chatbot: How much tonnes does truck #1 weight? 
-User: 33.0
+User: 10.0
 Chatbot: What is the maximum load in tonnes that truck #1 can carry? 
-User: 12
-Chatbot: How many Hyundai H350 with the same specification as truck #1 do you have? 
+User: 6
+Chatbot: How many Hyundai Mighty with the same specification as truck #1 do you have? 
 User: 1
-Chatbot: All trucks for model Hyundai H350 are recorded with success! ------------------------------
+Chatbot: All trucks for model Hyundai Mighty are recorded with success! ------------------------------
  

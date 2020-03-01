@@ -1,3 +1,3 @@
 user_name;Batuhan Ipekci
-company;sda
-trucks_owned;no
+company;Tracks GmbH
+trucks_owned;yes

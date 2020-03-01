@@ -1,1 +1,6 @@
 brand;model;count;engine_size;axles;weight;max_load
+BharatBenz;BharatBenz 3723;1;5;4;40.0;20
+DAF Trucks;DAF XF;2;7;6;26.5;56
+DAF Trucks;DAF XF;1;5;3;20.0;10
+DAF Trucks;DAF XC;1;7;3;10.0;3
+Hyundai;Hyundai Mighty;1;3;4;10.0;6

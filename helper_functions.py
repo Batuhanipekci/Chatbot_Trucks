@@ -30,13 +30,16 @@ def input_integer_select(integer_limit = 100):
             
     return(int(user_input))
 
-
 def input_char_list(text):
     '''
-    Splits the user input of brand lists
-    by commas and ' and '
+        Splits the user input of brand lists
+        by commas and ' and '
     '''
-    text_list = text.split(',')
+    if ',' not in text:
+        text_list = text.split(' and ')
+    else:
+        text_list = text.split(',')
+    
     result = []
     for tl in text_list:
         result = result + [tl.replace(' and ','').strip()]
