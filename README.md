@@ -19,7 +19,7 @@ The second version of the project focused on conversational aspects of the chat 
 
 The chat bot asks the user if the company has trucks. After retrieving the information for the truck brand and model names, truck specifications are collected and organized.
 
-At the end of the conversation, the [user_information](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/results/user_information.txt)), [truck_summaries](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/results/truck_summaries.txt), and the [chatlog](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/results/chatlog.txt) are written in respective files.
+At the end of the conversation, the [user_information](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/results/user_information.txt), [truck_summaries](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/results/truck_summaries.txt), and the [chatlog](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/results/chatlog.txt) are written in respective files.
 
 There are three main parts of the chat bot:
 
