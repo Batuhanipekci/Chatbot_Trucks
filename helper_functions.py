@@ -13,22 +13,35 @@ def input_integer_select(integer_limit = 100):
     '''
     flag = True
     user_input = input()
-
+    dialog = []
+    dialog.append('User: ' + str(user_input))
     while flag:
         if user_input.isdigit():
             if int(user_input) > integer_limit:
-                warning = ('Sorry, I can\'t process more than {0} ' + 
-                           'right now. Please enter again:').format(integer_limit)
+                warning = ('Sorry, I can\'t process more than {0}' + 
+                           ' right now. Please enter again:').format(integer_limit)
                 print(warning)
                 user_input = input()
+                dialog.append('Chatbot: ' + warning)
+                dialog.append('User: ' + str(user_input))
+            
+            elif len(user_input.replace('0','')) == 0:
+                warning = 'Please enter an integer above 0:'
+                print(warning)
+                user_input = input()
+                dialog.append('Chatbot: ' + warning)
+                dialog.append('User: ' + str(user_input))
             else:
                 flag=False
+
         else:
             warning = 'I don\'t understand. Please enter an integer:'
             print(warning)
             user_input = input()
+            dialog.append('Chatbot: ' + warning)
+            dialog.append('User: ' + str(user_input))
             
-    return(int(user_input))
+    return((int(user_input)),dialog)
 
 def input_char_list(text):
     '''
@@ -50,22 +63,35 @@ def input_float_select(float_limit = 100.0):
     ''' It can be merged with the input_integer_select '''
     flag = True
     user_input = input()
-
+    dialog = []
+    dialog.append('User: ' + str(user_input))
     while flag:
         if user_input.replace('.','').isdigit():
             if float(user_input) > float_limit:
                 warning = ('Sorry, I can\'t process more than {0}' + 
-                           'right now. Please enter again:').format(float_limit)
+                           ' right now. Please enter again:').format(float_limit)
                 print(warning)
                 user_input = input()
+                dialog.append('Chatbot: ' + warning)
+                dialog.append('User: ' + str(user_input))
+            
+            elif len(user_input.replace('0','')) == 0 or user_input.replace('0','')=='.':
+                warning = 'Please enter a floating number above 0:'
+                print(warning)
+                user_input = input()
+                dialog.append('Chatbot: ' + warning)
+                dialog.append('User: ' + str(user_input))
             else:
                 flag=False
+            
         else:
             warning = 'I don\'t understand. Please enter a floating number:'
             print(warning)
             user_input = input()
+            dialog.append('Chatbot: ' + warning)
+            dialog.append('User: ' + str(user_input))
             
-    return(round(float(user_input),2))
+    return(round(float(user_input),2), dialog)
 
 
 def did_you_mean_that(what_user_does,what_we_want):
@@ -74,11 +100,15 @@ def did_you_mean_that(what_user_does,what_we_want):
     '''
     cb_prints = list()
     user_inputs_rec = list()
+    dialog = []
     
     cb_prints.append(os.linesep +'Did you mean {0} by saying {1} ?'.format(what_we_want,what_user_does))
     print(cb_prints[len(cb_prints)-1])
     user_input = input()
     user_inputs_rec.append(user_input)
+    
+    dialog.append('Chatbot: ' + cb_prints[len(cb_prints)-1])
+    dialog.append('User: ' + str(user_input))
     
     if all(letter in user_input.lower() for letter in ['y','e','s']):
         out = what_we_want
@@ -90,12 +120,18 @@ def did_you_mean_that(what_user_does,what_we_want):
         user_input_sub = input()
         user_inputs_rec.append(user_input_sub)
         
+        dialog.append('Chatbot: ' + cb_prints[len(cb_prints)-1])
+        dialog.append('User: ' + str(user_input_sub))
+        
         if all(letter in user_input_sub.lower() for letter in ['y','e','s']):
             cb_prints.append(os.linesep + 'If so, it seems like the entry doesn\'t exist in our database '+
                   os.linesep + 'We will save it now.')
             print(cb_prints[len(cb_prints)-1])
             out = what_user_does
             suggestion = None
+            
+            dialog.append('Chatbot: ' + cb_prints[len(cb_prints)-1])
+            
         else:
             cb_prints.append(os.linesep +
                  'Could you then write what you meant?')
@@ -106,7 +142,11 @@ def did_you_mean_that(what_user_does,what_we_want):
             user_inputs_rec.append(user_input_suggestion)
             suggestion = True
             
-    return([out,suggestion,cb_prints,user_inputs_rec])
+            dialog.append('Chatbot: ' + cb_prints[len(cb_prints)-1])
+            dialog.append('User: ' + str(user_input_suggestion))
+            
+    #return([out,suggestion,cb_prints,user_inputs_rec])
+    return([out,suggestion,dialog])
 
 
 
@@ -187,4 +227,6 @@ def truck_recommender(user_input):
     
     return([out, status, user_input_rec])
         
+
+
 
