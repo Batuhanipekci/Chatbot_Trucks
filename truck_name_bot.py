@@ -2,16 +2,21 @@ import os
 from helper_functions import *
 
 
-
 def TruckNameBot():
 
     user_inputs = list()
     cb_prints = list()
+    dialog = list()
+    
+    
     cb_prints.append(os.linesep + 'What brands are they?')
     print(cb_prints[0])
     user_inputs.append(input())
     user_trucks = input_char_list(user_inputs[len(user_inputs)-1])
-
+    
+    dialog.append('Chatbot: ' + cb_prints[len(cb_prints)-1])
+    dialog.append('User: ' + str(user_inputs[len(user_inputs)-1]))
+    
     # Check the user input for trucks
     # The text similarities of all the entered brand names are computed
     recommendations = [[t] + truck_recommender(t) for t in user_trucks 
@@ -33,8 +38,7 @@ def TruckNameBot():
             # recommended brand name
             
             output = did_you_mean_that(recomm[0],recomm[1])
-            cb_prints = cb_prints + output[2]
-            user_inputs = user_inputs + output[3]
+            dialog = dialog + output[2]
             
             if output[1] is None:
                 # If the user rejects the recommendation
@@ -50,7 +54,7 @@ def TruckNameBot():
                 # and gives a new input
                 cb_prints.append(os.linesep + 'I am checking your input again ...')
                 print(cb_prints[len(cb_prints)-1])
-                
+                dialog.append('Chatbot: ' + cb_prints[len(cb_prints)-1])
                 # The similarity scores for the new input are computed
                 new_recomm = truck_recommender(output[0])
 
@@ -64,6 +68,7 @@ def TruckNameBot():
                     cb_prints.append(os.linesep + 'I couldn\'t find the brand name,' +
                           'but I will record your suggestion.')
                     print(cb_prints[len(cb_prints)-1])
+                    dialog.append('Chatbot: ' + cb_prints[len(cb_prints)-1])
                 else:
                     # If there is a recommendation, do not let
                     # the user enter another input again.
@@ -76,6 +81,7 @@ def TruckNameBot():
                     cb_prints.append(os.linesep + 'Oh, you meant ' +new_recomm[0]+
                           '. Okay.')
                     print(cb_prints[len(cb_prints)-1])
+                    dialog.append('Chatbot: ' + cb_prints[len(cb_prints)-1])
 
     if len(not_founds)>0:
         for nf in not_founds:
@@ -83,9 +89,10 @@ def TruckNameBot():
             replacement = [nf[0],nf[1]]
             to_replace.append(nf[0])
             replace_with.append(nf[1])
-            cb_prints.append(os.linesep + 'I couldn\'t find the brand name,' +
+            cb_prints.append(os.linesep + 'I couldn\'t find the brand name {0},'.format(nf[0]) +
                   'but I will record your suggestion.')
             print(cb_prints[len(cb_prints)-1])
+            dialog.append('Chatbot: ' + cb_prints[len(cb_prints)-1])
 
 
 
@@ -98,5 +105,4 @@ def TruckNameBot():
         else:
             final_trucks.append(tr)
             
-    return([final_trucks,user_trucks,cb_prints,user_inputs ])
-   
+    return([final_trucks,user_trucks,dialog ])
