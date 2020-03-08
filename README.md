@@ -1,5 +1,5 @@
-# Tracks GmbH Chat Bot V2
-Submission to the Recruitment Exam of Tracks GmbH
+# ChatForTrucks
+This is a chatbot to retrieve information on truck specifications from fleet owners.
 
 Run the file [chat_trucks_run.py](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/chat_trucks_run.py) on terminal after installing necessary packages (only textdistance) at [requirements.txt](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/blob/master/requirements.txt).
 
