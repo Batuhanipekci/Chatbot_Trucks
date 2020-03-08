@@ -15,7 +15,7 @@ We need to build a small interactive system (Chat Bot) to identify trucks, their
 The second version of the project focused on conversational aspects of the chat bot. The first version, which discussed mainly the data-science related issues, can be found in the branch [version1](https://github.com/Batuhanipekci/TracksGmbH_Chatbot/tree/version1).
 
 
-## Chat Bot 
+## Chat Bot  
 
 The chat bot asks the user if the company has trucks. After retrieving the information for the truck brand and model names, truck specifications are collected and organized.
 
