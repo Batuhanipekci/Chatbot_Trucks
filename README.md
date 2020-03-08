@@ -1,5 +1,5 @@
 # First Ideas
-Submission to the Recruitment Exam of Tracks GmbH (version 1)
+Building a chatbot for getting truck fleet information
 
 ## Task Description
 We need to build a small interactive system (Chat Bot) to identify trucks, their specification and number in particular fleet.
